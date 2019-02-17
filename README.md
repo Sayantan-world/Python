@@ -1,4 +1,4 @@
-# Python_Only
+# Python_Snippets
 
 ## Contains code snippets and basic projects
 
