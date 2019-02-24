@@ -4,4 +4,6 @@
 
 **Game over** snippet added
 
-**Next Targets** : Adding flashing / blinking effects along with sound
+**Hangman Game** added
+
+**TODO** : Adding flashing / blinking effects along with sound to these projects
